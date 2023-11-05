@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/l462agc4nw1hww24?svg=true)](https://ci.appveyor.com/project/Julia-Nemkina/aqa-hw5-patterns-2)
